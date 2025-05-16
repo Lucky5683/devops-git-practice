@@ -1,3 +1,4 @@
+# DevOps Project 
 # DevOps Git Project
 
 ## Objective
@@ -16,4 +17,6 @@ Manage a DevOps project using Git and GitHub best practices.
 1. Create a feature branch
 2. Make changes
 3. Push and raise a Pull Request
-# DevOps Project 
+## Contributors
+- Dinesh (Lucky5683)
+
